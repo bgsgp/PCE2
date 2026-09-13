@@ -61,14 +61,3 @@ Assets/
 
 ---
 *本项目为个人开发原型，正在持续迭代中。*
-
-### 🚀 推送到 GitHub：
-
-打开 PowerShell，把这份新的说明文件同步上去：
-
-```powershell
-cd E:\PCE2
-git add README.md
-git commit -m "更新 README 至 v0.2，明确 Universal 2D 模板"
-git push
-```
